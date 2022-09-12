@@ -8,7 +8,7 @@ import Loader from '../components/Loader';
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Loader show />
+      {/* <Loader show /> */}
 
       {/* <Link
         // if true, pag pinindot agad yung link, mag loload yung page
